@@ -10,7 +10,7 @@
 
 <p align="center">
   <img alt="" 
-  src=".github/captura 1.png"   
+  src=".github/Captura 1.png"   
   width="100%">
 </p>
 
